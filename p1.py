@@ -1,1 +1,1 @@
-print("primebot-core INSERT")
+print("primebot-core UPDATE")
