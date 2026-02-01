@@ -1,1 +1,1 @@
-print("primebot-core UPDATE2")
+print("primebot-core FIX2")
