@@ -1,1 +1,0 @@
-print("primebot-core FIX2")
